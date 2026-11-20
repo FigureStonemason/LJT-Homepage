@@ -13,7 +13,7 @@ I am **Junteng Liu**, a first-year PhD candidate at the **HKUST NLP Group**. My 
 
 - **Current program:** Ph.D. in Computer Science, Hong Kong University of Science and Technology (2024–Present)
 - **Current group:** HKUST NLP Group, led by Professor Junxian He
-- **Undergraduate education:** B.Eng. at Shanghai Jiao Tong University (2020–2024); graduated from SJTU in June 2024
+- **Undergraduate education:** B.Eng., Shanghai Jiao Tong University (2020–2024); graduated from SJTU in June 2024
 - **PhD supervisor:** Professor Junxian He
 - **Previous academic advising:** Professor Junxian He previously advised Junteng Liu during undergraduate studies at SJTU
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
@@ -42,25 +42,25 @@ The complete publication list is also available on the [Publications subpage](/L
   - Advisor: Prof. Yu Cheng, associated with Shanghai AI Lab.
 - **PhD research, HKUST NLP Group** (2024–Present)
   - Supervisor: Professor Junxian He.
-  - Research areas recorded in memory: natural language processing, machine learning, LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+  - Research areas: natural language processing, machine learning, LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
 ## Publications
 
-All six publications recorded in memory are listed here, in addition to the [Publications subpage](/LJT-Homepage/publications/).
+All six publications recorded in memory are listed below and on the [Publications subpage](/LJT-Homepage/publications/).
 
 ### First-Author Publications
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — First author: Junteng Liu.
    - Authors: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-   - Memory records that this publication has a GitHub code repository.
+   - GitHub code repository recorded.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) — First author: Junteng Liu.
    - Authors: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
-   - Recorded GitHub code repository: `Vision4Chart`.
+   - GitHub code repository: `Vision4Chart`.
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024; Conference on Empirical Methods in Natural Language Processing) — First author: Junteng Liu.
    - Authors: Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.
-   - Recorded GitHub code repository: `Universal_Truthfulness_Hyperplane`.
+   - GitHub code repository: `Universal_Truthfulness_Hyperplane`.
 
 ### Co-Authored Publications
 
@@ -75,16 +75,12 @@ All six publications recorded in memory are listed here, in addition to the [Pub
 
 ## Skills and Research Interests
 
-The memory records the following skills-related research and technical focus areas:
-
 - Natural language processing, combined with machine learning research.
 - Machine learning.
 - LLM reasoning and reinforcement learning.
 - Hallucination in vision-language models (VLM).
 - LLM truthfulness and interpretability.
-- Research publication work spanning first-author and co-authored papers at Arxiv, EMNLP, ICML, and NeurIPS venues recorded above.
-
-No additional programming language, framework, tool, certification, or proficiency rating is supplied in memory.
+- Research publication work across first-author and co-authored papers at Arxiv, EMNLP, ICML, and NeurIPS.
 
 ## Honors and Awards
 
